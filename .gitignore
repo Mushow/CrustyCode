@@ -1,0 +1,6 @@
+# Ignorer les fichiers et dossiers spécifiques à JetBrains
+.idea/
+*.iml
+
+# Ignorer les fichiers de build de Rust
+/target/
