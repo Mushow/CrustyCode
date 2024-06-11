@@ -2,8 +2,8 @@
 A simple binary disassembler tool written in Rust. This project is a learning exercise to help me understand Rust and binary file analysis.
 
 ## Roadmap
-- [ ] Basic project setup
-- [ ] Read binary files
+- [x] Basic project setup
+- [x] Read binary files
 - [ ] Disassemble binary files into assembly code
 - [ ] Improve disassembly output formatting
 - [ ] Add support for multiple architectures
